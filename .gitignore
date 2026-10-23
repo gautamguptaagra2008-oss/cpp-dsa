@@ -1,0 +1,15 @@
+# Build output
+build/
+*.exe
+*.out
+*.o
+a.out
+solution
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
